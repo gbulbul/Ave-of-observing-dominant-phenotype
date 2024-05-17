@@ -1,0 +1,1 @@
+Expected value of observing dominant phenotype is computed by this program where any allele is related to its corresponding probability of being observed. 'A' refers to dominant allele while 'a' represents the recessive one. Dominant phenotype is observed when at least one 'A' exists.   
